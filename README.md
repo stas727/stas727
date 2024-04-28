@@ -15,22 +15,31 @@ My Country is                      Ukraine
     
 Experience
 ----------
+**Hotline Finance (2024 — present):**
+* Software Engineer
+
+Support of the platform, development of new functionalities, diagnostics, and troubleshooting. Manage AWS and Kubernetes, create and optimize ci/cd pipelines. 
 
 **Sunplay (2023 — 2023):**
 * Senior PHP Developer
+
 Gambling field development in a large team. Support of the platform, development of new functionalities, writing tests, diagnostics, and troubleshooting.
 
 **Clicklead (2021 — 2023)**
-* Team Lead Developer
+* Senior Php/Golang Developer
+
 Docker obliges micro-service architecture and migration on AWS. Refactoring legacy code on Yii2, Symphony, Laravel. React, Vue3s. Selection and interview of developers. Development of services on Golang using Postgresql. Rabbitmq. elk. redis and platform solutions
 
 **Fincue (2018 — 2021)**
-* Team Lead Developer
+* Senior Php Developer
+
 Development and maintenance of Laravel projects. Tests and optimization of database queries. Development using Apache Kafka on PHP. Mysql and Vue2. Refactoring legacy code. Selection and interview of developers.
 
 **Krokus (2017 — 2018)**
-* Team Lead Developer
+* Full Stack Developer
+
 Development and maintenance of websites on Laravel, Vue 2. Selection and interview of developers.
+
 ------------------------------------------------------------------------------------------------------------------------
 
 Achievement
@@ -46,7 +55,7 @@ Achievement
 Extra Section
 ----------
 * Skills :
-     * PHP Golang Laravel MySQL PostgreSQL ClickHouse Kubernetes ElasticSearch Docker JavaScript Vue RabbitMQ Git Postgres
+     * PHP Golang Laravel MySQL PostgreSQL ClickHouse Kubernetes ElasticSearch Docker RabbitMQ Git Aws 
      * OOP DDD EDA SOLID/DRY/KISS/YAGNI
 
 * Human Languages:
@@ -63,7 +72,7 @@ Education
 
    Diploma in Engineering, Information Technology
 
-2007-2010
+2016-2017
    **Level Up IT Training Center**
 
   Course PHP and Javascript development
