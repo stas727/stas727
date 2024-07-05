@@ -70,18 +70,28 @@ Education
 2010-2016 
    **Sumy State University** Bachelor / Specialist 
 
-   Diploma in Engineering, Information Technology
+   _Diploma in Engineering, Information Technology_
 
 2016-2017
-   **Level Up IT Training Center**
+   **Course PHP and Javascript development**
 
-  Course PHP and Javascript development
+  _Level Up IT Training Center_
 
 2021-2022
-   **Prometheus IT Training Center**
+   **Основи Python**
 
-  Basis Python
-    
+  _Видано Beetroot. [Certificate Link](https://certs.prometheus.org.ua/downloads/44e6307276404585a7516eefa29dca1f/Certificate.pdf)_
+
+2023-2024
+   **Основи Kubernetes**
+
+  _Видано The Linux Foundation [Certificate Link](https://certs.prometheus.org.ua/downloads/04898222d1084820a2369fe9dc5312d7/Certificate.pdf)_
+
+2023-2024
+   **DevOps та Kubernetes. Практичний інтенсив**
+
+  _Видано GlobalLogic [Certificate Link](https://certs.prometheus.org.ua/downloads/bf6ba5ed3b32442cae2ed5ba946bdb75/Certificate.pdf)_
+  
 ------------------------------------------------------------------------------------------------------------------------
 <!--
 **stas727/stas727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
